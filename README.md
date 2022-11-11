@@ -1,2 +1,2 @@
-# React_project2
+# Color_Pallete
 Created with CodeSandbox
